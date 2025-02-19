@@ -10,6 +10,8 @@ This Tableau dashboard visualizes **Global Import and Export data** using an int
 
 ### 🛠 Tools Used  
 - **Tableau Public**  
-- **GitHub**  
+- **GitHub**
+  
+  ### Dashboard Preview : https://github.com/asmaahmad5/Global-Trade-2021-Dashboard/blob/main/Tableau%20screenshot.PNG 
 
 ---
